@@ -1,0 +1,11 @@
+.code-editor{
+      height: calc(100vh - 8rem);      
+      width: 100vw;
+      font-size: 1rem;
+      border:none;
+      outline: none;
+      text-align: justify;
+      text-indent: 10px;  
+      padding: 19px;
+      font-family:"Imprint MT Shadow";
+}
